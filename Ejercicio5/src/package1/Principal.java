@@ -18,6 +18,8 @@ public class Principal {
 		profesor1.corregir();
 		profesor1.explicar();
 		profesor1.prepararClase();
+		
+		System.out.println("Validación de cambios remota");
 	}
 
 }
